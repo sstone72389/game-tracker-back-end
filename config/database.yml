@@ -1,4 +1,4 @@
-<% project_name = 'game-project-back-end' %>
+<% project_name = 'game_project_back_end' %>
 
 default: &default
   adapter: postgresql

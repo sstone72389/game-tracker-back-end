@@ -2,17 +2,20 @@ Links:
 * [Deployed application](https://sstone72389.github.io/game-tracker-client/)
 * [Front end Repo](https://github.com/sstone72389/game-tracker-client)
 * [Back end deployed link](https://tranquil-coast-56887.herokuapp.com/)
-* [Back end Repo](https://github.com/sstone72389/game-tracker-back-end)
 
-[Link to ERD](http://res.cloudinary.com/dfu4pwocw/image/upload/v1497194430/ERD_higt6n.jpg)
+[Link to ERD](http://res.cloudinary.com/dfu4pwocw/image/upload/v1497533892/image1-1_hs2aqo.jpg)
 
-* Links to your client-side application, deployed client app, and deployed api.
-* An ERD
-* A list of your API routes
-* Installation instructions for any dependencies
-* Explanations of the technologies used
-* A couple paragraphs about the general approach you took
-* Descriptions of any unsolved problems or major hurdles you had to overcome
-* Both client and api repositories must be pinned on your GitHub page
 
-* IMPORTANT If you do not meet the planning or daily requirements, you cannot meet expectations for this project. The final submission that you must be the project you presented to the cohort.
+Approach taken when building: Testing was very important. First I generated a scaffold of 'posts'. The next step test via CURL scripts to ensure functionality. Once this was completed I was able to move to the front end and create proper client interactions to access the database.
+
+API routes:
+
+* One to many --> posts
+* posts belong to user
+* user has many posts
+
+Technologies used:
+
+HTML, CSS, JS, jQuery, JSON, AJAX, Git, GitHub, Grunt, Rails, Sass, Bootstrap, Handlebars, Ruby, Ruby on Rails, Rails Console, Node console(testing), Pry(testing).
+
+Unsolved problems: Incorporating the use of YouTube will be needed on future iterations of this proof of concept project. API calls will be required to pull the correct content and display it in an iframe on the front end.

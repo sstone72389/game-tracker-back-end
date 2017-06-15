@@ -6,7 +6,7 @@ Links:
 [Link to ERD](http://res.cloudinary.com/dfu4pwocw/image/upload/v1497533892/image1-1_hs2aqo.jpg)
 
 
-Approach taken when building: Testing was very important. First I generated a scaffold of 'posts'. The next step test via CURL scripts to ensure functionality. Once this was completed I was able to move to the front end and create proper client interactions to access the database.
+Approach taken when building: Testing was very important. First I generated a scaffold of 'posts'. At that point modifying the controller and models applicably were next. After that, I tested via CURL scripts to ensure functionality. Once this was completed I was able to move to the front end and create proper client interactions to access the database.
 
 API routes:
 

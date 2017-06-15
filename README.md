@@ -17,5 +17,3 @@ API routes:
 Technologies used:
 
 HTML, CSS, JS, jQuery, JSON, AJAX, Git, GitHub, Grunt, Rails, Sass, Bootstrap, Handlebars, Ruby, Ruby on Rails, Rails Console, Node console(testing), Pry(testing).
-
-Unsolved problems: Incorporating the use of YouTube will be needed on future iterations of this proof of concept project. API calls will be required to pull the correct content and display it in an iframe on the front end.
